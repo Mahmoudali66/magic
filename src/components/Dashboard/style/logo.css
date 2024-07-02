@@ -1,0 +1,10 @@
+.full{
+    background-color: rgba(217, 217, 217, 1);
+}
+.b{
+    height: 48px;
+    border-radius: 10px;
+}
+.b:focus{
+    background-color: white;
+}

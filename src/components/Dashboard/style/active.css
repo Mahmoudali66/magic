@@ -1,0 +1,19 @@
+.active {
+    background-color: #fff;
+}
+.borderb{
+    border-bottom: solid 1px gray;
+}
+.touch:hover{
+    background-color: #fff;
+    color: rgba(186, 109, 41, 1);;
+}
+.card{
+    background-color: rgba(186, 109, 41, 1);
+}
+.card:hover{
+    transition: 5.ms;
+    background-color: aliceblue;
+    color: black;
+    box-shadow: 1px 2px 5px black;
+}

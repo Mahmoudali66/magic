@@ -1,0 +1,36 @@
+.small{
+    height: 400px;
+}
+.marg{
+    margin-top: 100px;
+}
+.h2{
+    font-size: 48px;
+}
+.form{
+    border: 1px solid #ffffff;
+    width: 400px;
+    padding-top: 32px;
+    padding-bottom: 32px;
+}
+.input{
+    background-color: transparent;
+    border: 1px solid #ffffff;
+    height: 64px;
+    border-radius: 10px;
+    color: #ffffff;
+    padding: 5px;
+}
+.button{
+    background-color: black;
+    color: #ffffff;
+    border: 1px solid #ffffff;
+    height: 64px;
+    border-radius: 10px;
+}
+::placeholder {
+    text-align: center; 
+ }
+ .new{
+    overflow-x: scroll;
+ }
